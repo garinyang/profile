@@ -3,13 +3,19 @@ title: Garin's Profile
 description: A cv for yang bo 
 
 # User settings
-username: Bo Yang
-user_description: 7年 C/C++ arm/x86平台研发经验，基础扎实，强独立分析，解决问题的能力；熟悉主流的RPC通信框架，曾参与 tizen sef框架及log框架的设计与研发；熟悉分布式系统设计、开发；熟悉 python、shell等脚本语言及MYSQL数据库设计；性格开朗、适应力强，有着较强的组织沟通能力；
+username: 杨波
 user_title: Software Engineer
 email: garin.yang@outlook.com
-twitter_username: garin.yang
 github_username:  garin.yang
-gplus_username:  garin.yang
+birth: 1988-08-15
+education: 本科
+school: 江苏理工学院 2007-2011
+mobile: 18752001676
+user_description_1: 7年 C/C++ arm/x86（分布式）平台研发经验，基础扎实，强独立分析，解决问题的能力；
+user_description_2: 熟悉主流的RPC通信框架，曾参与 tizen sef框架及log框架的设计与研发；
+user_description_3: 熟悉分布式系统设计、开发；
+user_description_4: 熟悉 python、shell等脚本语言及MYSQL数据库设计；
+user_description_5: 性格开朗、适应力强，有着较强的组织沟通能力；
 
 # Google-analytics
 google-analytics:
