@@ -13,11 +13,12 @@ education: 本科
 school: 江苏理工学院（2007-2011）
 mobile: 187-5200-1676
 user_description_1: 7年 C/C++ arm/x86（分布式）平台研发经验，基础扎实，强独立分析、解决问题的能力；
-user_description_2: 熟悉http通信协议，主流的OpenSSL网络通信安全协议；
-user_description_3: 熟悉常用的RPC通信框架，曾参与三星Orsay/Tizen SEF框架、日志服务扩展框架的设计与研发；
-user_description_4: 熟悉分布式系统架构设计、了解负载均衡原理；
-user_description_5: 熟悉python、shell等脚本语言及MYSQL数据库设计；
-user_description_6: 性格开朗、适应力强，有着较强的组织沟通能力；
+user_description_2: 熟悉TCP/IP及http通信协议；
+user_description_3: 熟悉主流的RPC通信机制，曾参与多个中间件通信框架的设计与研发；
+user_description_4: 熟悉分布式系统架构设计、了解负载均衡基本原理；
+user_description_5: 熟悉常见的关系/非关系型数据库设计；
+user_description_6: 熟练使用shell，python等脚本语言；
+user_description_7: 性格开朗、适应力强，有着较强的组织沟通能力；
 
 # Google-analytics
 google-analytics:
