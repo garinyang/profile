@@ -1,24 +1,23 @@
 # Site settings
 title: Yangbo's Profile
-description: A cv for yang bo 
+description: A cv for yang bo
 
 # User settings
 user_cn_name: 杨波
-username: 杨 波
-user_title: Software Engineer
+user_name: 杨波
+user_title: C++程序员，Go程序员，技术架构师，技术讲师
 email: garin.yang@outlook.com
 github_username:  garin.yang
 birth: 1988-08-15
 education: 本科
-school: 江苏理工学院（2007-2011）
-mobile: 187-5200-1676
-user_description_1: 7年 C/C++ arm/x86（分布式）平台研发经验，基础扎实，强独立分析、解决问题的能力；
-user_description_2: 熟悉TCP/IP及http通信协议；
-user_description_3: 熟悉主流的RPC通信机制，曾参与多个中间件通信框架的设计与研发；
-user_description_4: 熟悉分布式系统架构设计、了解负载均衡基本原理；
-user_description_5: 熟悉常见的关系/非关系型数据库设计；
-user_description_6: 熟练使用shell，python等脚本语言；
-user_description_7: 性格开朗、适应力强，有着较强的组织沟通能力；
+school: 江苏理工学院(2007-2011)
+mobile: 18752001676
+user_description_1: 大龄程序员，做过知名外企研发工程师、架构师；爱好广泛，喜欢踢球但常年被老寒腿困扰；喜欢喝酒但是痛风；目前混迹于一家互联网母婴新零售公司。
+user_description_2: 熟悉 TCP/IP、HTTP等主流网络通信协议，有着丰富的网络编程经验；
+user_description_3: 熟悉主流的RPC通信框架，曾参与Orsay/Tizen SEF框架、日志服务扩展框架的设计与研发；
+user_description_4: 熟悉分布式系统架构设计、了解负载均衡原理；
+user_description_5: 熟悉主流的开发语言C++,go，python以及shell等脚本语言；熟悉 redis，mysql分布式存储；
+user_description_6: 性格开朗、适应力强，有着较强的组织沟通能力；
 
 # Google-analytics
 google-analytics:
