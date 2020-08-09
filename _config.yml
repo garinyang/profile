@@ -5,19 +5,20 @@ description: A cv for yang bo
 # User settings
 user_cn_name: 杨 波
 user_name: 杨 波
-user_title: C++程序员，技术架构师，技术讲师
+user_title: 研发工程师、技术架构师、技术讲师
 email: garin.yang@outlook.com
 github_username:  garin.yang
 birth: 1988-08-15
 education: 本科
 school: 江苏理工学院(2007-2011)
 mobile: 18752001676
-user_description_1: 大龄程序员，做过知名外企研发工程师、架构师；爱好广泛，喜欢喝酒但有痛风；喜欢踢球但常年被老寒腿困扰；目前混迹于一家互联网母婴新零售公司。
+user_description_1: 大龄程序员，做过知名外企研发工程师、架构师；爱好广泛，喜欢喝酒但有痛风，喜欢踢球但常年被老寒腿困扰；目前混迹于一家互联网母婴新零售公司，担任电商框架框架师一职。
 user_description_2: 熟悉 TCP/IP、HTTP等主流网络通信协议，有着丰富的网络编程经验；
 user_description_3: 熟悉主流的RPC通信框架，曾参与Orsay/Tizen SEF框架、日志服务扩展框架的设计与研发；
 user_description_4: 熟悉分布式系统架构设计、了解负载均衡原理；
-user_description_5: 熟悉主流的开发语言C++,go，python以及shell等脚本语言；熟悉 redis，mysql分布式存储；
-user_description_6: 性格开朗、适应力强，有着较强的组织沟通能力；
+user_description_5: 熟悉分布式数据库mysql等存储原理；
+user_description_6: 熟悉主流的编程语言C++、python以及shell等脚本语言；
+user_description_7: 性格开朗、适应力强，有着较强的组织沟通能力；
 
 # Google-analytics
 google-analytics:
