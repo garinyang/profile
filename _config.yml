@@ -12,13 +12,15 @@ birth: 1988-08-15
 education: 本科
 school: 江苏理工学院(2007-2011)
 mobile: 18752001676
-user_description_1: 工作十年，经历过3家公司，有着传统软件、嵌入式，互联网多个行业的工作经历，丰富的研发、架构设计经验；爱好看书、音乐，足球运动；目前就职于一家母婴领域的互联网新零售公司，担任电商框架架构师、技术负责人一职。
+user_description_1: 工作十年，经历过3家公司，有过嵌入式机顶盒协议栈，智能电视中间件以及互联网多个行业的工作经历，丰富的分布式架构架构设计、研发经验；
+                    爱好看书、音乐，足球运动；
+                    目前就职于一家母婴领域的互联网新零售公司，担任技术平台架构负责人一职，主要负责微服务框架、devops工具链以及容器化这一块的建设。
 user_description_2: 熟悉 TCP/IP、HTTP等主流网络通信协议，有着丰富的网络编程经验；
-user_description_3: 熟悉主流的RPC通信框架，曾参与三星Orsay和Tizen两大TV系统的中间件框架SEF、日志服务扩展框架Clogger的设计与研发；
-user_description_4: 熟悉分布式系统架构设计、了解负载均衡原理；
-user_description_5: 熟悉 mysql，redis等分布式存储机制；
-user_description_6: 熟悉主流的编程语言C++、go、python以及shell等脚本语言，有着较为扎实的编程基础；
-user_description_7: 性格开朗、适应力强，有着较强的组织沟通能力；
+user_description_3: 熟悉主流的RPC通信框架，曾参与并负责三星Orsay和Tizen两大TV系统的中间件框架SEF、日志服务扩展框架Clogger的设计与研发，孩子王微服务框架；
+user_description_4: 熟悉分布式系统架构设计并有较为丰富的实践经验；
+user_description_5: 熟悉 mysql，redis等分布式存储原理；熟悉分布式消息中间件：kafka，rocketmq等；
+user_description_6: 编程语言方面，9年以上的C++编程实践经验、比较熟悉shell脚本语言；了解go，python等；
+user_description_7: 性格开朗、适应力强，能带领团队打硬仗；
 
 # Google-analytics
 google-analytics:
