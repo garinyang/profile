@@ -12,12 +12,12 @@ birth: 1988-08-15
 education: 本科
 school: 江苏理工学院(2007-2011)
 mobile: 18752001676
-user_description_1: 工作走过了第十个年头，期间经历过3家公司，有过嵌入式机顶盒协议栈、智能电视中间件,互联网等行业的工作经历，丰富的分布式架构架构设计研发经验；
+user_description_1: 工作十年，经历过3家公司，有过嵌入式机顶盒协议栈、智能电视中间件,互联网等行业的工作经历，丰富的分布式架构架构设计研发经验；
                     目前就职于一家母婴领域的互联网新零售公司，担任技术平台架构负责人一职，主要负责电商微服务框架、通用消息队列中间件、缓存中间件以及devops平台这一块的建设。
 user_description_2: 熟悉 TCP/IP、HTTP等主流网络通信协议，有着丰富的网络编程经验；
 user_description_3: 熟悉主流的RPC通信框架，曾参与并负责三星Orsay和Tizen两大TV系统的中间件框架SEF、日志服务扩展框架Clogger的设计与研发，孩子王微服务框架；
 user_description_4: 熟悉分布式系统架构设计并有较为丰富的实践经验；
-user_description_5: 熟悉kubernetes及docker容器化技术，有devops平台工具落地实践经验；
+user_description_5: 熟悉kubernetes及docker容器化技术，有devops平台工具链落地实践经验；
 user_description_6: 熟悉 mysql，redis等分布式存储原理；熟悉分布式消息中间件：kafka，rocketmq等；
 user_description_7: 编程语言方面，9年以上的C++编程实践经验、比较熟悉shell脚本语言；了解go，python等；
 user_description_8: 有空就会看书、偶尔听听音乐，难得一次的足球；
