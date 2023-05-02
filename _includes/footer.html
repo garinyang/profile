@@ -2,13 +2,13 @@
  * @Author: garin.yang garin.yang@outlook.com
  * @Date: 2021-07-25 17:21:45
  * @LastEditors: garin.yang garin.yang@outlook.com
- * @LastEditTime: 2022-11-12 20:55:33
+ * @LastEditTime: 2023-05-02 11:05:20
  * @FilePath: /profile/_includes/footer.html
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
 <footer class="footer">
-    <span id="busuanzi_container_site_pv">
-        访问量:<span id="busuanzi_value_site_pv"></span>次
+    <span id="busuanzi_container_site_uv">
+        访问量:<span id="busuanzi_value_site_uv"></span>次
         <!-- 访客数:<span id="busuanzi_value_site_uv"></span>人次 -->
     </span>
     <p>&copy; {{site.username}} 2019 - 2025 </p>
@@ -17,6 +17,8 @@
 <script src="{{ "/assets/js/sweet-scroll.min.js" | prepend: site.baseurl }}"></script>
 <script src="{{ "/assets/js/main.js" | prepend: site.baseurl }}"></script>
 {% include google-analytics.html %}
+
+<!-- 不蒜子访问量统计 -->
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 
         
